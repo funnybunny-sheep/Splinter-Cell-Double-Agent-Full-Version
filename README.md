@@ -239,4 +239,4 @@ This repository serves as the official landing page for Splinter Cell Double Age
 **Get the most recent version of Splinter Cell Double Agent today!**
 
 ---
-**Last updated:** 2026-10-27 21:43:45 UTC
+**Last updated:** 2026-10-28 00:54:44 UTC
